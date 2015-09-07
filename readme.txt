@@ -1,1 +1,0 @@
-Scripts and experiments estimating chaotic population dynamics with Bayesian state-space models.
